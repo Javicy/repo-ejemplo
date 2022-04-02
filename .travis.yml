@@ -1,6 +1,6 @@
 branches:
   except:
-    - gh-pages
+    - gh-pages - a-excluir
 language: C
 complier:
   - gcc
